@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.idea/
+resources/trained_models/archive/
+model/__pycache__/
+__pycache__/
