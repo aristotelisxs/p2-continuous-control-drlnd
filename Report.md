@@ -113,7 +113,7 @@ down to 0.05.
 
 ### Results
 
-<img src="resources/images/scores_1586432246512.png" width="19%" align="top-left" alt="" title="Q-function" />
+<img src="resources/images/scores_1586432246512.png" width="80%" align="top-left" alt="" title="Q-function" />
 
 ```buildoutcfg
 Episode No. 120	Average reward: 33.53	Average reward over 100 episodes: 22.50
